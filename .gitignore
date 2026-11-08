@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+
+# Generated exports and local working data
+*.csv
+CV/
+
+# macOS metadata
+.DS_Store
